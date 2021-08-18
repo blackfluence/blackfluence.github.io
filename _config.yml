@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
+title: BlackFluence的博客
+subtitle: 
 description:
 author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -207,6 +207,8 @@ font:
 
 # ---------------------------------------------------------------
 # Sidebar Settings
+sidebar: true
+sidebar-about-description: "吃"
 # ---------------------------------------------------------------
 
 
@@ -353,7 +355,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
@@ -631,7 +633,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
